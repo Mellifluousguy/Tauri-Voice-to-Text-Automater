@@ -37,7 +37,7 @@ Built with **Tauri (Rust)** for system-level control and **React** for the UI, p
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/tauri-voice-automator.git](https://github.com/YOUR_USERNAME/tauri-voice-automator.git)
+    git clone [https://github.com/mellifluousguy/tauri-voice-automator.git](https://github.com/mellifluousguy/tauri-voice-automator.git)
     cd tauri-voice-automator
     ```
 
