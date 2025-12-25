@@ -88,7 +88,7 @@ To create a standalone installer (`.dmg`, `.exe`, `.deb`):
 
 ```bash
 npm run tauri build
-
+```
 The output will be found in `src-tauri/target/release/bundle/`.
 
 ---
